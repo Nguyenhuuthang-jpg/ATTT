@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ATTT
-=======
 # CipherLab — Hệ thống mô phỏng tấn công mật mã cổ điển
 
 > ⚠️ **Chỉ dùng để học.** Không dùng các mã này để bảo vệ dữ liệu thật.
@@ -91,6 +88,7 @@ Mã nguồn: MIT License
 | Vite | ^8.x | MIT |
 | Vitest | ^5.x | MIT |
 | TypeScript | ~6.x | Apache-2.0 |
+| vite-plugin-singlefile | ^2.x | MIT |
 
 ## 👥 Nhóm thực hiện
 
@@ -98,4 +96,3 @@ Mã nguồn: MIT License
 - **Nguyễn Xuân Thành**
 - Giảng viên: **Đoàn Trung Sơn**
 - Môn: Nhập môn An toàn thông tin
->>>>>>> 61b23a4 (Fisrt push)
